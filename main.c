@@ -58,7 +58,6 @@ int main () {
             case 3:
                 decoration(1, 0);
 
-
                 double multiplication = multiply(a, b);
 
                 decoration(0, 1);
